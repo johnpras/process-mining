@@ -9,4 +9,7 @@ Topics that are covered:
 * Decision mining,
 * Statistics.
 
- <img src="https://github.com/dabusted/certificate/blob/main/unnamed.jpg" width="200" height="200">
+<br><br><br><br>
+Certified:
+<br>
+ <img src="https://github.com/dabusted/certificate/blob/main/unnamed.jpg" width="150" height="150">
