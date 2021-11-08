@@ -1,4 +1,4 @@
-Basic code for process mining.
+Basic code for process mining. Working with IEEE XES files.
 
 Topics that are covered:
 * General information about the event log,
