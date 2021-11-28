@@ -8,8 +8,3 @@ Topics that are covered:
 * Dfg to workflow net,
 * Decision mining,
 * Statistics.
-
-<br><br><br><br>
-Certified:
-<br>
- <img src="https://github.com/dabusted/certificate/blob/main/unnamed.jpg" width="150" height="150">
